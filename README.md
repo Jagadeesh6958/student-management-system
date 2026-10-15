@@ -7,4 +7,4 @@ A simple application to manage student records.
 - View student records
 
 ## Project Status
-Initial version
+Development build in progress
